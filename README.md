@@ -41,8 +41,9 @@ This project is a decentralized student data management system built using Ether
    2. Truffle - Development framework for Ethereum
    3. Web3.js - Ethereum JavaScript API
    4. HTML, CSS, JavaScript - Frontend development
-       
 
+### Project Screenshot User Interface
+![screencapture-file-C-Users-kzoha-OneDrive-Desktop-NEW-index-html-2024-03-09-21_08_13](https://github.com/CodeZohaib/blockchain-student-record-system/assets/142882799/a83cfb6c-ae16-4d65-8cf9-6fb2fd9ad437)
 
 
 
